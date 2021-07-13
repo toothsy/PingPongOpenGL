@@ -25,3 +25,10 @@ $ gcc pingPong.c  -lm -lglut -lGL -lGLU
 
 ### Restart game
 - middle button to reset the ball, paddle and score
+
+### Menu Implementation
+- Right clicking opens a menu for 
+  -   ball and paddle color
+  -   ball and paddle size
+  -   game difficulty
+  
